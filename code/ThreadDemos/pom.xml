@@ -21,7 +21,7 @@
 
         <jmh.version>1.21</jmh.version>
         <jmhJar.name>ThreadDBenchmarks</jmhJar.name>
-        <jol.verson>0.10-SNAPSHOT</jol.verson>
+        <jol.verson>0.10</jol.verson>
     </properties>
     <dependencies>
         <dependency>
